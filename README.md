@@ -72,12 +72,12 @@ Explore the interactive Power BI reports designed to drive strategic business de
 
 ---
 
-#### 👨‍💻 Author
-## Ehab Farid
+## 👨‍💻 Author
+### Ehab Farid
 
-Role: Data Engineer
+#### Role: Data Engineer
 
-## linledin : https://www.linkedin.com/in/ehab-fared-b822a6212/
+#### linledin : https://www.linkedin.com/in/ehab-fared-b822a6212/
 
 ---
 
