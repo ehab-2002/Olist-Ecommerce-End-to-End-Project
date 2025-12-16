@@ -34,6 +34,31 @@ The data flows from raw files through a cleaning layer using Python, is loaded i
 * **Connection:** Power BI connects directly to the Gold Layer in Snowflake.
 * **Output:** Interactive dashboards for Sales, Logistics, and Seller analysis.
 
+
+---
+## 📊 Dashboard Gallery & Strategic Insights
+Explore the interactive Power BI reports designed to drive strategic business decisions across all departments.
+
+### 1️⃣ Executive Overview
+*A centralized command center for C-level executives. This view provides a real-time pulse on Total Revenue ($13.59M), Orders, and Monthly Sales Trends to identify growth opportunities.*
+![Executive Overview](./power_BI/overview.png)
+
+### 2️⃣ Customer Segmentation & Behavior
+*Understanding who buys what. This dashboard analyzes customer distribution by state, highlights VIP customers, and tracks average spending to tailor marketing campaigns.*
+![Customer Analysis](./power_BI/customers.png)
+
+### 3️⃣ Sales & Product Performance
+*Deep dive into product metrics. Analyzes Revenue by Category and Price vs. Quantity correlations to optimize inventory and pricing strategies.*
+![Product Analysis](./power_BI/Sales_&_Products.png)
+
+### 4️⃣ Logistics & Supply Chain Intelligence
+*Tracking the order journey. This crucial view monitors Delivery Performance, identifies slowest shipping states, and breaks down the order lifecycle to reduce transit times.*
+![Logistics Dashboard](./power_BI/logistics.png)
+
+### 5️⃣ Seller Performance Matrix
+*Evaluating marketplace partners. A strategic tool to classify sellers based on Revenue vs. Review Scores, helping admin teams manage seller quality effectively.*
+![Seller Analysis](./power_BI/sellers.png)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -52,7 +77,7 @@ The data flows from raw files through a cleaning layer using Python, is loaded i
 ├── 📂 Python_Scripts/       # Python scripts for cleaning & validation
 ├── 📂 dbt_Project/          # dbt models, snapshots, and schema tests
 ├── 📂 data modeling/        # Architecture diagram 
-├── 📂 power BI/             # Dashboard screenshots
+├── 📂 power_BI/             # Dashboard screenshots
 └──README.md                # Project documentation
 
 👨‍💻 Author
