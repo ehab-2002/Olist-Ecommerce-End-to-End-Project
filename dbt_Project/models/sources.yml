@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: ECOMMERCE_PROJECT_ITI
+    schema: PUBLIC
+    tables: 
+      - name: customers
+      - name: geolocation
+      - name: orders
+      - name: order_items
+      - name: product_category_name_translations
+      - name: payments
+      - name: products
+      - name: reviews
+      - name: sellers
