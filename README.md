@@ -53,7 +53,7 @@ Explore the interactive Power BI reports designed to drive strategic business de
 
 ### 4️⃣ Logistics & Supply Chain Intelligence
 *Tracking the order journey. This crucial view monitors Delivery Performance, identifies slowest shipping states, and breaks down the order lifecycle to reduce transit times.*
-![Logistics Dashboard](./power_BI/logistics.png)
+![Logistics Dashboard](./power_BI/Logistics.png)
 
 ### 5️⃣ Seller Performance Matrix
 *Evaluating marketplace partners. A strategic tool to classify sellers based on Revenue vs. Review Scores, helping admin teams manage seller quality effectively.*
