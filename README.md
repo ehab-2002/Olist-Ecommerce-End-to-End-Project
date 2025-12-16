@@ -72,6 +72,16 @@ Explore the interactive Power BI reports designed to drive strategic business de
 
 ---
 
+#### 👨‍💻 Author
+## Ehab Farid
+
+Role: Data Engineer
+
+## linledin : https://www.linkedin.com/in/ehab-fared-b822a6212/
+
+---
+
+
 ## 🗂️ Project Structure
 ```text
 ├── 📂 Python_Scripts/       # Python scripts for cleaning & validation
@@ -79,10 +89,3 @@ Explore the interactive Power BI reports designed to drive strategic business de
 ├── 📂 data modeling/        # Architecture diagram 
 ├── 📂 power_BI/             # Dashboard screenshots
 └──README.md                # Project documentation
-
-👨‍💻 Author
-Ehab Farid
-
-Role: Data Engineer
-
-linledin : https://www.linkedin.com/in/ehab-fared-b822a6212/
